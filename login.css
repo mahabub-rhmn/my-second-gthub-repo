@@ -1,0 +1,25 @@
+*{
+
+    margin: 5% 20% 30px ;
+    background-color: aquamarine;
+}
+
+.top{
+
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: solid silver;
+    background-color: rgb(237, 137, 137);
+    box-shadow: #826EBB 5px 8px 10px;
+}
+
+.first{
+
+    border: solid rgb(134, 13, 171) 20px;
+    margin: 1px 1px 10px;
+    border-radius: 20px;
+    box-sizing: content-box 600px;
+    background-color: blueviolet;
+    text-align: center;
+}
