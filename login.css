@@ -1,7 +1,7 @@
 *{
 
     margin: 5% 20% 30px ;
-    background-color: aquamarine;
+    background-color: #DAF1DE;
 }
 
 .top{
@@ -9,17 +9,18 @@
     text-align: center;
     font-size: xx-large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: solid silver;
-    background-color: rgb(237, 137, 137);
-    box-shadow: #826EBB 5px 8px 10px;
+    border: solid #0B2B26;
+    background-color: #0B2B26;
+    box-shadow: #051F20 5px 8px 10px;
+    color: aliceblue;
 }
 
 .first{
 
-    border: solid rgb(134, 13, 171) 20px;
+    border: solid #235347;
     margin: 1px 1px 10px;
     border-radius: 20px;
     box-sizing: content-box 600px;
-    background-color: blueviolet;
+    background-color: #8EB69B;
     text-align: center;
 }
